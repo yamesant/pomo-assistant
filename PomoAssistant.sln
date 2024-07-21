@@ -3,6 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9DC79A59-8C6B-49C1-9370-A0DF9B3C6905}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PomoAssistant.Core", "PomoAssistant.Core\PomoAssistant.Core.csproj", "{85CE0274-34BC-4A24-98A4-BCA6BE5FA34B}"
